@@ -10,8 +10,8 @@ O sistema foi desenvolvido com foco em instituições de **pequeno a médio port
 
 ## 🖼️ Imagens do Sistema
 
-![Tela Principal](https://LINK_DA_IMAGEM_1)
-![Exemplo de Cadastro](https://LINK_DA_IMAGEM_2)
+![Tela de Login](https://github.com/MrGus-exe/Academus/blob/05f7028a4a4a9a4bb2f8626bad545701f1281141/Imagem%20do%20WhatsApp%20de%202025-06-02%20%C3%A0(s)%2023.37.55_7be77d35.jpg)
+![Tela Principal](https://github.com/MrGus-exe/Academus/blob/05f7028a4a4a9a4bb2f8626bad545701f1281141/Imagem%20do%20WhatsApp%20de%202025-06-02%20%C3%A0(s)%2023.37.55_702ae3f9.jpg)
 
 ---
 
