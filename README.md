@@ -2,7 +2,7 @@
 
 ## 📌 Introdução
 
-**Academus** é uma aplicação desktop desenvolvida em **Java com HTTP** com persistência de dados via **MySQL**, voltada para o gerenciamento acadêmico. A solução permite o cadastro, edição, listagem, exclusão e vinculação de **alunos**, **professores** e **cursos**, além de contar com autenticação de usuários.
+**Academus** é uma aplicação desktop desenvolvida em **Java(Swing)** com persistência de dados via **MySQL**, voltada para o gerenciamento acadêmico. A solução permite o cadastro, edição, listagem, exclusão e vinculação de **alunos**, **professores** e **cursos**, além de contar com autenticação de usuários.
 
 O sistema foi desenvolvido com foco em instituições de **pequeno a médio porte**, oferecendo uma ferramenta de fácil uso, eficiente e de baixo custo para controle e organização de dados acadêmicos.
 
@@ -10,7 +10,7 @@ O sistema foi desenvolvido com foco em instituições de **pequeno a médio port
 
 ## ⚙️ Tecnologias Utilizadas
 
-- 💻 Java(HTTP)
+- 💻 Java(swing)
 - 🗃️ MySQL
 - 🔌 JDBC
 - 🧪 JUnit (testes unitários)
@@ -59,7 +59,7 @@ Durante os testes, todas as funcionalidades previstas se comportaram conforme es
 
 O desenvolvimento do sistema **Academus** demonstrou ser uma excelente oportunidade para aplicar conhecimentos de desenvolvimento de software com Java e banco de dados. Dentre os principais aprendizados:
 
-- Construção de interfaces gráficas com Java com HTTP
+- Construção de interfaces gráficas em Java com Swing
 - Aplicação de operações CRUD e autenticação de usuários
 - Integração e manipulação de dados com MySQL
 - Organização do código em camadas com boas práticas de POO
