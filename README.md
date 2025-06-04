@@ -8,12 +8,20 @@ O sistema foi desenvolvido com foco em instituições de **pequeno a médio port
 
 ---
 
+## 🖼️ Imagens do Sistema
+
+![Tela Principal](https://LINK_DA_IMAGEM_1)
+![Exemplo de Cadastro](https://LINK_DA_IMAGEM_2)
+
+---
+
 ## ⚙️ Tecnologias Utilizadas
 
-- 💻 Java(swing)
+- 💻 Java (Swing)
 - 🗃️ MySQL
 - 🔌 JDBC
 - 🧪 JUnit (testes unitários)
+- 🧪 AssertJ Swing (testes automatizados de interface - E2E)
 - 🧠 Programação orientada a objetos (POO)
 - 📁 Arquitetura em camadas (MVC)
 
@@ -74,3 +82,20 @@ O projeto resultou em uma solução funcional, intuitiva e tecnicamente sólida 
 1. Clone o repositório:
    ```bash
    git clone https://github.com/MrGus-exe/Academus.git
+
+2. Acesse o diretório principal do projeto:
+   ```bash
+   cd GerenciamentoEstudantil
+
+3. Compile os arquivos com o conector do MySQL:
+   ```bash
+   javac -cp ".;lib/mysql-connector-j-9.3.0.jar" interface_grafica\ConexaoMySQL.java interface_grafica\GerenciadorDeDados.java interface_grafica\InterfacePrincipal.java
+
+4. Execute a aplicação:
+   ```bash
+   java -cp ".;lib/mysql-connector-j-9.3.0.jar" interface_grafica.InterfacePrincipal
+
+   
+
+   
+
