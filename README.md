@@ -73,4 +73,4 @@ O projeto resultou em uma solução funcional, intuitiva e tecnicamente sólida 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/academus.git
+   git clone https://github.com/MrGus-exe/Academus.git
